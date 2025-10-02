@@ -14,7 +14,7 @@ This project demonstrates how to **automatically stop an EC2 instance** when its
 ---
 
 ## 📂 Google Drive Project PDF
-🔗 [View Full Project PDF](https://drive.google.com/file/d/1J_EB-JULmCQjDbWdiX9gjNLPWkbBqj5U/view?usp=drive_link)
+🔗 [View Full Project PDF](https://drive.google.com/file/d/1XzCqLpEbnr2vTKucnUUWQtqL3frC858C/view?usp=drive_link)
 
 ---
 
